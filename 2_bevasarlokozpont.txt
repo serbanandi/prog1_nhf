@@ -1,0 +1,64 @@
+a
+c X g b n
+20
+31.1
+b
+a f c l e n
+13
+14.5
+d
+X m l i
+30
+21.2
+f
+b j k l o i
+45
+60.4
+c
+b a h e n
+2
+10
+j
+f m k g
+15
+7.5
+h
+c X g i
+50
+17.5
+e
+b c g
+10
+3
+l
+b f d m o
+2
+23.4
+m
+d l j k
+0
+10.1
+g
+a j h e
+12
+48.48
+k
+f j m X n
+1
+42.5
+n
+a b c k
+50
+120.2
+o
+f l p
+42
+42.42
+p
+o X
+2
+5
+i
+f d h
+35
+15.75
