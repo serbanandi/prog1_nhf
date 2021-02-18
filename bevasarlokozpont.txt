@@ -1,0 +1,92 @@
+p
+f u b
+12
+42
+f
+p u c h
+5
+8.5
+h
+f c
+3
+25
+c
+h f u l e
+6
+20
+u
+f c p b
+8
+20
+b
+p u l r
+2
+16
+l
+c b r s z e
+6
+19
+r
+b l s
+8
+12
+s
+r l z o m w X
+20
+12
+e
+c l z o a i
+3
+7.8
+z
+l e o s
+6
+11.5
+o
+z s m e a
+5
+12.3
+m
+X x k o s
+15
+10.6
+k
+m X y a
+10
+10
+a
+o e i t m j X k
+20
+33.78
+i
+e a t
+10
+42.42
+t
+i a m
+12
+19.9
+m
+t a j
+8
+16.9
+j
+a b
+3
+16
+b
+j x
+2
+15.4
+w
+s X
+3
+2
+x
+m X
+2
+1.5
+y
+k X
+4
+1.5
